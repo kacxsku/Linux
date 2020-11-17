@@ -5,7 +5,7 @@ Linux projects which I create for Operation Systems
 
 * Processes
 
-*Threads
+* Threads
 
 * Semaphores-synchronization
 
