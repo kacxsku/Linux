@@ -1,21 +1,21 @@
 # Linux
 Linux projects which I create for Operation Systems
 
-Projects topics:
+## Projects topics:
 
-Processes
+* Processes
 
-Threads
+*Threads
 
-Semaphores-synchronization
+* Semaphores-synchronization
 
-Semaphores - critical section - mutual exclusion
+* Semaphores - critical section - mutual exclusion
 
-Shared memory - semaphores - critical section 
+* Shared memory - semaphores - critical section 
 
-Message queue
+* Message queue
 
-Named (mkfifo) and unnamed (pipe) pipes
+* Named (mkfifo) and unnamed (pipe) pipes
 
-Sockets
+* Sockets
 
