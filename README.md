@@ -17,5 +17,7 @@ Linux projects which I create for Operation Systems
 
 * Named (mkfifo) and unnamed (pipe) pipes
 
-* Sockets
+* The problem of readers and writers
+
+* Five philosophers problem
 
